@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personaa.Add-In", "Personaa.Add-In\Personaa.Add-In.csproj", "{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personaa.Add-InWeb", "Personaa.Add-InWeb\Personaa.Add-InWeb.csproj", "{90415966-3E23-441A-BAD3-795F41FE6F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439CD41A-4C85-4C4E-A694-6F93D9ABAC31}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{90415966-3E23-441A-BAD3-795F41FE6F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90415966-3E23-441A-BAD3-795F41FE6F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90415966-3E23-441A-BAD3-795F41FE6F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90415966-3E23-441A-BAD3-795F41FE6F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
